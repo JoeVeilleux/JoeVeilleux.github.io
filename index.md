@@ -1,8 +1,13 @@
-## Welcome to GitHub Pages
+## GitHub Pages
+
+This site is maintained using [GitHub Pages](https://guides.github.com/features/pages/). GitHub Pages works like this:
+
+1. Create a special repository named <userid>.github.io
+1. Modify the repository's Settings > GitHub Pages to select a Pages 'theme'.
+1. Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 You can use the [editor on GitHub](https://github.com/JoeVeilleux/JoeVeilleux.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
